@@ -77,3 +77,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.mk
+02-PricePerItem.project
+*.txt
+Debug/.d
+*.d
